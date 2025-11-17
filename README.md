@@ -92,6 +92,4 @@ python main.py
 **Autores (Equipe)**
 - Diego Rover Rodrigues
 - Daniel Taboga
-```bash
-git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
-cd SEU_REPOSITORIO
+
