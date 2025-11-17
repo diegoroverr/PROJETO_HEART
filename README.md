@@ -81,10 +81,6 @@ python -m pip install pandas scikit-learn matplotlib colorama tqdm
 python main.py
 
 **4. Siga as instruções no menu: O programa apresentará um menu. Execute as opções na ordem (1, 2, 3, 4) para ver o fluxo completo do projeto.**
-╔══════════════════════════════════════════════════╗
-║   ❤️  ANÁLISE DE PERFIS DE INSUFICIÊNCIA CARDÍACA   ❤️  ║
-╚══════════════════════════════════════════════════╝
-   Identifica perfis de pacientes usando K-Means (sem supervisão)
 
 [1] Pré-Processar dados (Normalizar)
 [2] Treinar Modelo (Achar K e Clusterizar)
